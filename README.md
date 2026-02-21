@@ -10,6 +10,6 @@ Copy and paste these commands in Termux:
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install requests bs4
-git clone [https://github.com/Pakhtoon9900/ATTA-OLD-CLONER](https://github.com/Pakhtoon9900/ATTA-OLD-CLONER)
+git clone https://github.com/Pakhtoon9900/ATTA-OLD-CLONER
 cd ATTA-OLD-CLONER
 python atta.py
